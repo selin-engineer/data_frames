@@ -18,7 +18,7 @@ from datetime import datetime
 plt.plot(climate_change_data['Year'],climate_change_data['°C'],label='°C',color='gray')
 plt.plot(climate_change_data['Year'],climate_change_data['°F'],label='°F',color='black')
 plt.legend()
-plt.show()
+//plt.show()
 
 
 
